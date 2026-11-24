@@ -25,7 +25,7 @@ export default function Home() {
   }, [isHistoryOpen, activeRepo]);
 
   const sampleRepos = [
-    { name: 'RepoPilot', url: 'https://github.com/akash-lakhani/RepoPilot.git' },
+    { name: 'RepoPilot', url: 'https://github.com/Akashstudy/RepoPilot-.git' },
     { name: 'LangChain', url: 'https://github.com/langchain-ai/langchain.git' },
     { name: 'FastAPI', url: 'https://github.com/tiangolo/fastapi.git' },
   ];
